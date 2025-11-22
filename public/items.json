@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "itemName": "T-SHIRT WITH TAPE DETAILS",
+    "category": "T-Shirts",
+    "rating": 4.5,
+    "price": 120,
+    "tag": "New Arrival",
+    "image": "/images/items/tape-tshirt.png"
+  },
+  {
+    "id": 2,
+    "itemName": "SKINNY FIT JEANS",
+    "category": "Jeans",
+    "rating": 3.5,
+    "regularPrice": 260,
+    "discountPrice": 240,
+    "discountPercentage": 20,
+    "tag": "New Arrival",
+    "image": "/images/items/skinny-jeans.png"
+  },
+  {
+    "id": 3,
+    "itemName": "CHECKERED SHIRT",
+    "category": "Shirts",
+    "rating": 4.5,
+    "price": 180,
+    "tag": "New Arrival",
+    "image": "/images/items/checkered-shirt.png"
+  },
+  {
+    "id": 4,
+    "itemName": "SLEEVE STRIPED T-SHIRT",
+    "category": "T-Shirts",
+    "rating": 4.4,
+    "regularPrice": 160,
+    "discountPrice": 130,
+    "discountPercentage": 30,
+    "tag": "New Arrival",
+    "image": "/images/items/sleeve-striped-tshirt.png"
+  },
+  {
+    "id": 5,
+    "itemName": "FADED SKINNY JEANS",
+    "category": "Jeans",
+    "rating": 4.7,
+    "price": 210,
+    "tag": "Top Selling",
+    "image": "/images/items/faded-jeans.png"
+  },
+  {
+    "id": 6,
+    "itemName": "LOOSE FIT BERMUDA SHORTS",
+    "category": "Shorts",
+    "rating": 4.3,
+    "price": 80,
+    "tag": "Top Selling",
+    "image": "/images/items/bermuda-shorts.png"
+  },
+  {
+    "id": 7,
+    "itemName": "COURAGE GRAPHIC T-SHIRT",
+    "category": "T-Shirts",
+    "rating": 4.6,
+    "price": 145,
+    "tag": "Top Selling",
+    "image": "/images/items/courage-tshirt.png"
+  },
+  {
+    "id": 8,
+    "itemName": "VERTICAL STRIPED SHIRT",
+    "category": "Shirts",
+    "rating": 4.5,
+    "regularPrice": 232,
+    "discountPrice": 212,
+    "discountPercentage": 20,
+    "tag": "Top Selling",
+    "image": "/images/items/vertical-striped-shirt.png"
+  },
+  {
+    "id": 9,
+    "itemName": "Gradient Graphic T-shirt",
+    "category": "T-Shirts",
+    "rating": 4.1,
+    "regularPrice": 28,
+    "discountPrice": 22,
+    "discountPercentage": 21,
+    "image": "/images/items/gradient-tshirt.png"
+  },
+  {
+    "id": 10,
+    "itemName": "Polo with Tipping Details",
+    "category": "Polos",
+    "rating": 4.3,
+    "price": 30,
+    "image": "/images/items/polo-tipping.png"
+  },
+  {
+    "id": 11,
+    "itemName": "Black Striped T-shirt",
+    "category": "T-Shirts",
+    "rating": 4.2,
+    "regularPrice": 26,
+    "discountPrice": 20,
+    "discountPercentage": 23,
+    "image": "/images/items/black-striped-tshirt.png"
+  },
+  {
+    "id": 12,
+    "itemName": "Polo with Contrast Trims",
+    "category": "Polos",
+    "rating": 4.4,
+    "price": 32,
+    "image": "/images/items/polo-contrast.png"
+  }
+]
