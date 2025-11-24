@@ -1,5 +1,6 @@
 import Banner from "@/components/Banner"
 import NewArrivals from "@/components/NewArrivals"
+import Styles from "@/components/Styles";
 import TopSell from "@/components/TopSell"
 
 interface Item {
@@ -17,7 +18,7 @@ interface Item {
 
 
 async function getItems(): Promise<Item[]> {
-  const res = await fetch("http://localhost:3000/items.json");
+  const res = await fetch(" http://192.168.0.197:3000/items.json");
   return res.json();
 }
 
@@ -33,11 +34,11 @@ const Home = async () => {
     <div>
       <Banner />
       <div className="px-24">
-
-      <NewArrivals items={newArrivals} />
-      <hr className="w-full" />
-      <TopSell items={topSelling} />
+        <NewArrivals items={newArrivals} />
+        <hr className="w-full" />
+        <TopSell items={topSelling} />
       </div>
+      <Styles />
     </div>
   )
 }

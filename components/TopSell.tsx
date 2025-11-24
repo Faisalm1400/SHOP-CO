@@ -1,4 +1,5 @@
 import ItemCard from "./ItemCard";
+import { Button } from "./ui/button";
 
 interface Item {
     id: number;
@@ -26,6 +27,9 @@ const TopSell: React.FC<Props> = ({ items }) => {
                 {
                     items.map((item) => <ItemCard key={item.id} item={item} />)
                 }
+            </div>
+            <div className="flex justify-center">
+                <Button variant={"outline"} className="rounded-full px-20 py-4">View All</Button>
             </div>
         </div>
     )
